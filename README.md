@@ -6,9 +6,9 @@ Welcome to the GitHub repository for [*Unpacking sources of transmission in HIV 
 
 This repo is organized as follows:
 - [bcpp_spillovers](bcpp_spillovers):
-    - [data](data/): input data
-    - [scripts](scripts/): scripts to estimate the risk of transmission between communities and the preventable transmissions with a nationwide intervention
-    - [results](results/): preprocessed outputs
+    - [data](bcpp_spillovers/data/): input data
+    - [scripts](bcpp_spillovers/scripts/): scripts to estimate the risk of transmission between communities and the preventable transmissions with a nationwide intervention
+    - [results](bcpp_spillovers/results/): preprocessed outputs
  
  
 ## Dependencies
@@ -43,7 +43,7 @@ estimate_transmission_risk.r
 Notes
 
 * This script will fit models to estimate the risk of transmission between communities and save the models in the workspace: `estimate_transmission_risk.rda`
-* Pre-run models are available at: `results/estimate_transmission_risk.rda`
+* Pre-run models are available at: `bcpp_spillovers/results/estimate_transmission_risk.rda`
 * Tip! To view the pre-run models in R:
 
 ```   
@@ -79,7 +79,7 @@ Notes
     * mean estimate of preventable transmissions
     * 95% lower confidence bound
     * 95% upper confidence bound
-* Pre-processed output is available at: `results/preventable_trms_nationwide_intervention.csv`
+* Pre-processed output is available at: `bcpp_spillovers/results/preventable_trms_nationwide_intervention.csv`
 
 
 And that's it, you are all set!

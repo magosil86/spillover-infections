@@ -44,8 +44,8 @@
 - tmvnsim_1.0-2   
 - tools_4.1.2  
 - utf8_1.2.2      
-- vctrs_0.6.3     
-- 
+- vctrs_0.6.3
+
 
 ## List of packages for: `estimate_preventable_trms_with_nationwide_intervention.r`
 
