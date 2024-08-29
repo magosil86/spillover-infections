@@ -1,0 +1,102 @@
+## List of R packages
+
+## Purpose: Use to check package versions when resolving dependencies
+
+## List of packages for: `estimate_transmission_risk.r`
+
+- abind_1.4-5           
+- arm_1.12-2 
+- assertthat_0.2.1
+- boot_1.3-28      
+- cli_3.6.1       
+- coda_0.19-4           
+- compiler_4.1.2  
+- crayon_1.5.0          
+- DBI_1.1.2    
+- dplyr_1.0.8 
+- ellipsis_0.3.2  
+- fansi_1.0.2     
+- generics_0.1.2  
+- glue_1.6.1            
+- grid_4.1.2            
+- lattice_0.20-45 
+- lifecycle_1.0.3 
+- lme4_1.1-28  
+- magrittr_2.0.2  
+- MASS_7.3-54 
+- Matrix_1.3-4 
+- minqa_1.2.4           
+- mnormt_2.0.2          
+- nlme_3.1-153 
+- nloptr_2.0.0    
+- parallel_4.1.2  
+- pillar_1.7.0 
+- pkgconfig_2.0.3 
+- psych_2.1.9  
+- purrr_0.3.4  
+- R6_2.5.1     
+- Rcpp_1.0.8            
+- rlang_1.1.1     
+- splines_4.1.2
+- tibble_3.1.6 
+- tidyr_1.2.0  
+- tidyselect_1.1.1
+- tmvnsim_1.0-2   
+- tools_4.1.2  
+- utf8_1.2.2      
+- vctrs_0.6.3     
+- 
+
+## List of packages for: `estimate_preventable_trms_with_nationwide_intervention.r`
+
+- assertthat_0.2.1  
+- class_7.3-19      
+- classInt_0.4-3   
+- cli_3.6.1         
+- codetools_0.2-18 
+- colorspace_2.0-2  
+- compiler_4.1.2   
+- crayon_1.5.0
+- DBI_1.1.2             
+- doParallel_1.0.17
+- dplyr_1.0.8       
+- e1071_1.7-9      
+- ellipsis_0.3.2    
+- fansi_1.0.2       
+- forcats_0.5.1         
+- foreach_1.5.2         
+- generics_0.1.2        
+- ggplot2_3.4.2    
+- ggrepel_0.9.1         
+- glue_1.6.1        
+- grid_4.1.2        
+- gtable_0.3.0      
+- iterators_1.0.14  
+- KernSmooth_2.23-20
+- lattice_0.20-45   
+- lifecycle_1.0.3       
+- magrittr_2.0.2    
+- MASS_7.3-54       
+- mnormt_2.0.2     
+- munsell_0.5.0     
+- nlme_3.1-153     
+- pillar_1.7.0      
+- pkgconfig_2.0.3  
+- proxy_0.4-26     
+- psych_2.1.9       
+- purrr_0.3.4           
+- R6_2.5.1         
+- RColorBrewer_1.1-2
+- Rcpp_1.0.8            
+- rlang_1.1.1       
+- scales_1.2.1      
+- sf_1.0-6         
+- tibble_3.1.6      
+- tidyr_1.2.0       
+- tidyselect_1.1.1      
+- tmvnsim_1.0-2      
+- tools_4.1.2           
+- units_0.8-0           
+- utf8_1.2.2            
+- vctrs_0.6.3       
+- withr_2.5.0    
