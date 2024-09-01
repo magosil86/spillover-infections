@@ -1,6 +1,6 @@
 # Unpacking sources of transmission in HIV prevention trials
 ###
-Welcome to the GitHub repository for [*Unpacking sources of transmission in HIV prevention trials with deep-sequence pathogen data – BCPP/ Ya Tsie study*]().
+Welcome to the GitHub repository for [*Unpacking sources of transmission in HIV prevention trials with deep-sequence pathogen data – BCPP/ Ya Tsie study*](https://www.medrxiv.org/content/10.1101/2024.08.30.24312845v1).
 
 ## Repo organization 
 
@@ -96,7 +96,7 @@ Contributions are welcome. Please observe the [Contributor Code of Conduct](http
 Lerato E. Magosi, Eric Tchetgen Tchetgen, Vlad Novitsky, Molly Pretorius Holme, Janet Moore, 
 Pam Bachanas, Refeletswe Lebelonyane, Christophe Fraser, Sikhulile Moyo, Kathleen E. Hurwitz, 
 Tendani Gaolathe, Ravi Goyal, Joseph Makhema, Shahin Lockman, Max Essex, Victor De Gruttola, & Marc Lipsitch 
-(2024) [Unpacking sources of transmission in HIV prevention trials with deep-sequence pathogen data – BCPP/ Ya Tsie study]()
+(2024) [Unpacking sources of transmission in HIV prevention trials with deep-sequence pathogen data – BCPP/ Ya Tsie study](https://www.medrxiv.org/content/10.1101/2024.08.30.24312845v1)
 
 
 ## Authors
