@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/848496182.svg)](https://doi.org/10.5281/zenodo.17641167)
 
 # Unpacking sources of transmission in HIV prevention trials
+![](spillover_image.png)
 ###
 Welcome to the GitHub repository for [*Unpacking sources of transmission in HIV prevention trials with deep-sequence pathogen data – BCPP/ Ya Tsie study*](https://www.medrxiv.org/content/10.1101/2024.08.30.24312845v1).
 
